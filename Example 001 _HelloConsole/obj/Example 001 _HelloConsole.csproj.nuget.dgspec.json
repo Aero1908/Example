@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hakob\\OneDrive\\Рабочий стол\\C#\\Examples\\Example 001 _HelloConsole\\Example 001 _HelloConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hakob\\OneDrive\\Рабочий стол\\C#\\Examples\\Example 001 _HelloConsole\\Example 001 _HelloConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hakob\\OneDrive\\Рабочий стол\\C#\\Examples\\Example 001 _HelloConsole\\Example 001 _HelloConsole.csproj",
+        "projectName": "Example 001 _HelloConsole",
+        "projectPath": "C:\\Users\\hakob\\OneDrive\\Рабочий стол\\C#\\Examples\\Example 001 _HelloConsole\\Example 001 _HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\hakob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakob\\OneDrive\\Рабочий стол\\C#\\Examples\\Example 001 _HelloConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hakob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
